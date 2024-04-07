@@ -8,7 +8,7 @@ https://github.com/zdenham/diamond-etherscan
 
 ## Tech Stack :computer:
 <p>
-	<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=ben46&show_icons=true&hide_border=true" />
+	<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=ben46&show_icons=true&hide_border=true" />
 
  <table>
    <tbody>
