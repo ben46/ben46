@@ -9,7 +9,6 @@ https://github.com/zdenham/diamond-etherscan
 ## Tech Stack :computer:
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ben46&show_icons=true&hide_border=true" />
- </p>
 
  <table>
    <tbody>
@@ -60,4 +59,5 @@ https://github.com/zdenham/diamond-etherscan
       </tbody>
 
   </table>
- 
+  </p>
+
