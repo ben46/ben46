@@ -1,6 +1,5 @@
 ## My blog
-
-https://github.com/ben46/BlockchainBlog
+[Charlie's Blog](https://ben46.github.io/)
 
 ## Contributed Repos:
 
